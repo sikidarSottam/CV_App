@@ -1,3 +1,3 @@
 # A React based CV Making Web Tool
 
-just learning and experinmenting
+just learning and experimenting
